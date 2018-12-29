@@ -1,4 +1,4 @@
-# Divante zad2
+# CRA-data-into-table
 
 This ReactJS project is created by create-react-app and is displaying json data in the responsive table.<br />
 In the project is implemented sorting mechanism after click on table header cells.<br />
